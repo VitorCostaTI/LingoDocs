@@ -17,7 +17,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Praticidade de Gestão',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -27,7 +27,7 @@ const features = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Controle de Processos',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -37,7 +37,7 @@ const features = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Dados Simplificados',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
@@ -68,7 +68,6 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
@@ -80,8 +79,8 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={useBaseUrl('blog/')}>
+              Conheça nosso projeto
             </Link>
           </div>
         </div>

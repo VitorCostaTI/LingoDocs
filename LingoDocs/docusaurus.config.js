@@ -11,8 +11,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lingo Kennel Docs',
-  tagline: 'Documentação do sistema Lingo Kennel',
+  title: 'Lingo Lingo Kennel',
+  tagline: 'O melhor para seu melhor amigo',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

@@ -86,6 +86,16 @@ export default function Home() {
         </div>
       </header>
       <main>
+        <div className='container'>
+        <h1 className="text--center">
+          Sobre Nós
+        </h1>
+        <p className="text--justify"> 
+          Há mais de três anos estamos no mercado, sempre oferecendo aos nossos clientes o melhor de nossos produtos para eles e seus pets;
+          Todos sempre bem cuidados e saudáveis, porque é nosso objetivo principal cuidar deles, mas agora, com um novo software de código aberto,
+          apresentamos uma nova maneira de atender nossos clientes de maneira inovadora, usando a tecnologia como nossa principal aliada.
+        </p>
+        </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

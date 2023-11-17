@@ -77,7 +77,7 @@ export default function Home() {
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
-                styles.getStarted,
+                styles.getBlog,
               )}
               to={useBaseUrl('blog/')}>
               Conheça nosso projeto

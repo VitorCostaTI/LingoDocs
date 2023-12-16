@@ -6,7 +6,7 @@ Este projeto é desenvolvido com Docussaurus 2+.
 
 * Comece instalando as dependências do projeto: **npm install**.
 
-* Para iniciar o App Mobile basta executar o comando de start do EXPO **npx expo start**.
+* Para iniciar o LingoDocs basta executar o comando de start do node **npm start**.
 
 * Esta documentação está em constante mudança então lembre-se de mante-la sempre atualizada e seguir as dicas aqui disponiveis.
 

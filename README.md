@@ -14,8 +14,6 @@ Este projeto é desenvolvido com Docussaurus 2+.
 
 * O Front End deste projeto está disponivel em outro [repositório](https://github.com/VitorCostaTI/LingoFront), de meu perfil.
 
-* O App Mobile deste projeto está disponivel em outro [repositório](https://github.com/VitorCostaTI/LingoMobile), de meu perfil.
-
 * O Back End deste projeto está disponivel em outro [repositório](https://github.com/VitorCostaTI/LingoBack), de meu perfil.
 
 ---
